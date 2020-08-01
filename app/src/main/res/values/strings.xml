@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="txt1">You go first</string>
+    <string name="txt2">"It's Android's turn"</string>
+    <string name="txt3">"It's your turn (X)."</string>
+    <string name="txt4">"It's a tie!"</string>
+    <string name="txt5">"You won!"</string>
+    <string name="txt6">"Android won!"</string>
+    <string name="button_restart">Start a New Game</string>
+
+    <string name="exit">Exit</string>
+    <string name="level">Level</string>
+    <string name="easy">easy</string>
+    <string name="normal">normal</string>
+    <string name="hard">hard</string>
+
+    <string name="Win">Win:</string>
+    <string name="Lose">Lose:</string>
+    <string name="Tie">Tie:</string>
+
+
+
+
+</resources>

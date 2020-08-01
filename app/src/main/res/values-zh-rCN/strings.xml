@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">井字棋</string>
+    <string name="txt1">你先下</string>
+    <string name="txt2">该手机下了</string>
+    <string name="txt3">该你下了(X)</string>
+    <string name="txt4">平局！</string>
+    <string name="txt5">你赢了！</string>
+    <string name="txt6">手机赢了！</string>
+    <string name="button_restart">重新开始</string>
+
+    <string name="exit">退出</string>
+    <string name="level">难度</string>
+    <string name="easy">简单</string>
+    <string name="normal">普通</string>
+    <string name="hard">较难</string>
+
+    <string name="Win">赢:</string>
+    <string name="Lose">输:</string>
+    <string name="Tie">平:</string>
+</resources>
